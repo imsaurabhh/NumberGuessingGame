@@ -6,6 +6,7 @@ const remaining = document.querySelector('.remaining');
 const lowOrHigh = document.querySelector('.lowOrHigh');
 const startOver = document.querySelector('.results');
 const p = document.createElement('p');
+const p0 = document.createElement('p');
 
 let previousGuess = [];
 let numGuess = 5;
