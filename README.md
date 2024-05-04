@@ -1,2 +1,2 @@
 "# NumberGuessingGame" 
-this is a basic game
+this is a basic number game
