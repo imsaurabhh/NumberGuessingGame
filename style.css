@@ -1,0 +1,61 @@
+body{
+    margin: 0px;
+    background-color: grey;
+    padding: 0px;
+    
+}
+.navbar{
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.navbar h1{
+    margin: 0%;
+    text-align: center;
+    font-size: 1.5em;
+} 
+#guess{
+    font-size: xx-large;
+    
+}
+.form{
+    text-align: center;
+
+}
+.results{
+    text-align: center;
+}
+#submit{
+    margin: 5px;
+    width: 50%;
+    height: 30px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: rgb(45, 41, 41);
+    color: aliceblue;
+    background-color: rgb(45, 41, 41);
+}
+.guessFeild{
+    width: 80%;
+    height: 2em;
+    margin: 15px;
+    border-radius: 13px;
+    border-style: solid;
+    text-align: center;
+}
+.text{
+    margin : 10px;
+    margin-bottom: 0px;
+    text-align: center
+}
+#newGame{
+    background-color: cyan;
+    width: 60%;
+    border-style: solid;
+    border-radius: 5px;
+}
+.previousGuesses{
+    background-color: rgb(92, 85, 85);
+}
